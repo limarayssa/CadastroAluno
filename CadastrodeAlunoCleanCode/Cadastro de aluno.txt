@@ -1,0 +1,2 @@
+Aluno, nome= João, CPF= 1283172, Curso=DS, Rua=Rua Érico Veríssimo, 234, Vila Conceição, Diadema, SP, 0
+Aluno, nome= Maria, CPF= 1827361, Curso=Adm, Rua=Leão, 12, A, são paulo, SP, 996799

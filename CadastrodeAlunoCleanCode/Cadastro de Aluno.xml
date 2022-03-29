@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alunos>
+    <aluno id="1">
+        <Nome>João</Nome>
+        <CPF>1283172</CPF>
+        <Curso>DS</Curso>
+        <Endereço>
+            <Rua>Rua Érico Veríssimo</Rua>
+            <Número>234</Número>
+            <Bairro>Vila Conceição</Bairro>
+            <Cidade>Diadema</Cidade>
+            <Estado>SP</Estado>
+        </Endereço>
+    </aluno>
+    <aluno id="1">
+        <Nome>Maria</Nome>
+        <CPF>1827361</CPF>
+        <Curso>Adm</Curso>
+        <Endereço>
+            <Rua>Leão</Rua>
+            <Número>12</Número>
+            <Bairro>A</Bairro>
+            <Cidade>são paulo</Cidade>
+            <Estado>SP</Estado>
+        </Endereço>
+    </aluno>
+</Alunos>
